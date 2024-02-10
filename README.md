@@ -24,13 +24,9 @@ This translation python script ignores the JSON values which contains HTML tags 
 And translation for these values should be done manually.
 
 **File Structure** 
-Inside the Python package there are 3 files present that are
+Inside the Python package there 1 file present that is
 
-main.py - Execution starts from here
-
-fileReaderWriter.py - Reads a JSON file and also writes into it
-
-translateValues.py - The translation is done here in this file
+main.py - Execution starts from here, that reads a JSON file and then the translation is done.
 
 **Working**
 The execution starts from the main.py file
